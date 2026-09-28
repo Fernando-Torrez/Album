@@ -1,13 +1,4 @@
 {
   "ultimo": 1,
-  "fotos": [
-    {
-      "n": 1,
-      "archivo": "foto-0001.jpg",
-      "fecha": "2026-09-28T20:48:19.289Z",
-      "w": 1600,
-      "h": 1200,
-      "sha": "baa2f1e937e46535dc76503913d2cef1cb253fa9"
-    }
-  ]
+  "fotos": []
 }
